@@ -1,6 +1,5 @@
 ## Hi, I’m Rylan! 👋 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rylanhiltz)
-[![GitHub RylanHiltz](https://img.shields.io/github/followers/RylanHiltz?label=follow&style=social)](https://github.com/RylanHiltz)&nbsp;
  
 > Builder of useful things. Breaker of nothing (usually).
 
