@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I’m Rylan! 👋
 
-<!--
-**RylanHiltz/RylanHiltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Builder of useful things. Breaker of nothing (usually).
 
-Here are some ideas to get you started:
+I'm a developer who likes mixing clean code with clean design. I strive to create and bring my projects to life, writting meaningfull code that (hopefully) makes someone’s day a bit easier. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☕ About Me
+- I'm a 3rd year Computer Science Student at Trent University
+- I’ve always enjoyed creative work such as drawing, video editing, and designing :)
+- Big fan of minimal interfaces, thoughtful UX, and little animations 
+
+---
