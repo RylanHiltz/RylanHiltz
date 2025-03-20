@@ -2,7 +2,9 @@
 
 > Builder of useful things. Breaker of nothing (usually).
 
-I'm a developer who likes mixing clean code with clean design. I strive to create and bring my projects to life, writting meaningfull code that (hopefully) makes someone’s day a bit easier. 
+I'm a developer who likes mixing clean code with clean design. I strive to create and bring my 
+<br>
+projects to life  while writting code that (hopefully) makes someone’s day a little bit easier. 
 
 ---
 
